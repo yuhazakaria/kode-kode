@@ -2,7 +2,7 @@ package com.tutorial;
 
 import java.util.Arrays;
 
-public class Main {
+public class Baris {
 
     public static void main (String[] args){
         // assignment
@@ -14,7 +14,7 @@ public class Main {
         //                    | | | |
         int[] arrayInteger = {1,2,3,4};
 
-        arrayInteger[0] = 11;
+        arrayInteger[3] = 11;
 
         System.out.println(arrayInteger[0]);
         System.out.println(arrayInteger[1]);
