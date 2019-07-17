@@ -2,7 +2,7 @@ package com.tutorial;
 
 import java.util.Arrays;
 
-public class Main {
+public class Baris {
 
     public static void main (String[] args){
         // assignment
